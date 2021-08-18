@@ -1,4 +1,5 @@
 <h2> Hi, I'm Sara Restrepó! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
 I'm a systems engineering student and I live in Colombia
 
 - 🌱 I’m currently learning HTML, CSS and Java Script
